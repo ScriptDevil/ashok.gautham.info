@@ -1,0 +1,38 @@
+{% extends 'section.html' %}
+{% block sectioncontent %}
+<ul class="tree">
+  {% for ss_ in section.subsections %}
+  {% set ss = get_section(path=ss_) %}
+  <li>
+    <a href="{{ss.permalink}}"> {{ss.title}}/</a>
+    <ul> 
+      {% for sss_ in ss.subsections %}
+      {% set sss = get_section(path=sss_) %}
+      <li>
+        <a href="{{sss.permalink}}"> {{sss.title}}/</a>
+        <ul> 
+          {% for page in sss.pages %}
+          <li>
+            <a href="{{page.permalink}}"> {{page.title}} </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% endfor %}
+      {% for page in ss.pages %}
+      <li>
+        <a href="{{page.permalink}}"> {{page.title}} </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+  
+      {% for page in section.pages %}
+      <li>
+        <a href="{{page.permalink}}"> {{page.title}} </a>
+      </li>
+      {% endfor %}
+</ul>
+
+{% endblock sectioncontent %}

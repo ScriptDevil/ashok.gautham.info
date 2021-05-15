@@ -1,0 +1,238 @@
+{
+  "2021": [
+    {
+      "title": "Start with Why",
+      "subtitle": "How Great Leaders Inspire Everyone To Take Action",
+      "authors": ["Simon Sinek"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/7108725-start-with-why",
+      "date_started": "2021-05-05",
+      "date_completed": "2021-05-06",
+      "format": "audiobook"
+    },
+    {
+      "title": "The Stars' Tennis Balls",
+      "subtitle": "",
+      "authors": ["Stephen Fry"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/927525.The_Stars_Tennis_Balls",
+      "date_started": "2021-03-21",
+      "date_completed": "2021-03-24",
+      "format": "paperback"
+    },
+    {
+      "title": "The Phoenix Project",
+      "subtitle": "A Novel About IT, DevOps, and Helping Your Business Win",
+      "authors": ["Gene Kim"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/17255186-the-phoenix-project",
+      "date_started": "2021-02-15",
+      "date_completed": "2021-03-01",
+      "format": "ebook"
+    },
+    {
+      "title": "So Good They Can't Ignore You",
+      "subtitle": "Why Skills Trump Passion in the Quest for Work You Love",
+      "authors": ["Cal Newport"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you",
+      "date_started": "2021-02-09",
+      "date_completed": "2021-02-11",
+      "format": "ebook"
+    },
+    {
+      "title": "The Conquest of Bread",
+      "subtitle": "",
+      "authors": ["Pyotr Kropotkin"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/1113155.The_Conquest_of_Bread",
+      "date_started": "2021-01-01",
+      "date_completed": "2021-01-10",
+      "format": "ebook"
+    }
+  ],
+  "2020": [
+    {
+      "title": "The Slight Edge",
+      "subtitle": "",
+      "authors": ["Jeff Olson"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/590652.The_Slight_Edge",
+      "date_started": "2020-08-30",
+      "date_completed": "2020-09-04",
+      "format": "ebook"
+    },
+    {
+      "title": "Alone Together",
+      "subtitle": "Making an Asperger Marriage Work",
+      "authors": ["Katrin Bentley"],
+      "rating": 3,
+      "link": "https://www.goodreads.com/book/show/1201300.Alone_Together",
+      "date_started": "2020-06-25",
+      "date_completed": "2020-06-30",
+      "format": "ebook"
+    },
+    {
+      "title": "Pretending to Be Normal",
+      "subtitle": "Living with Asperger's Syndrome",
+      "authors": ["Liane Holliday Willey"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/222508.Pretending_to_Be_Normal",
+      "date_started": "2020-05-01",
+      "date_completed": "2020-05-02",
+      "format": "ebook"
+    },
+    {
+      "title": "The Stranger",
+      "subtitle": "",
+      "authors": ["Albert Camus"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/49552.The_Stranger",
+      "date_started": "2020-04-10",
+      "date_completed": "2020-04-18",
+      "format": "ebook"
+    },
+    {
+      "title": "Good Omens",
+      "subtitle": "The Nice and Accurate Prophecies of Agnse Nutter, Witch",
+      "authors": ["Terry Pratchett"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/12067.Good_Omens",
+      "date_started": "2020-01-02",
+      "date_completed": "2020-04-06",
+      "format": "ebook"
+    },
+    {
+      "title": "Born To Run",
+      "subtitle": "A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+      "authors": ["Christopher McDougall"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/6289283-born-to-run",
+      "date_started": "2020-01-02",
+      "date_completed": "2020-01-06",
+      "format": "ebook"
+    }
+  ],
+  "2019": [
+    {
+      "title": "The Power of Habit",
+      "subtitle": "Why We Do What We Do in Life and Business",
+      "authors": ["Charles Duhigg"],
+      "rating": 3,
+      "link": "https://www.goodreads.com/book/show/12609433-the-power-of-habit",
+      "date_started": "2019-11-28",
+      "date_completed": "2019-11-29",
+      "format": "ebook"
+    },
+    {
+      "title": "Darkness Visible",
+      "subtitle": "A Memoir of Madness",
+      "authors": ["William Styron"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/249042.Darkness_Visible",
+      "date_started": "2019-11-20",
+      "date_completed": "2019-11-23",
+      "format": "ebook"
+    },
+    {
+      "title": "Of Mice and Men",
+      "subtitle": "",
+      "authors": ["John Steinbeck"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/890.Of_Mice_and_Men",
+      "date_started": "2019-10-15",
+      "date_completed": "2019-10-17",
+      "format": "ebook"
+    },
+    {
+      "title": "Deep Work",
+      "subtitle": "Rules for Focused Success in a Distracted World",
+      "authors": ["Cal Newport"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/25744928-deep-work",
+      "date_started": "2019-09-08",
+      "date_completed": "2019-09-01",
+      "format": "paperback"
+    },
+    {
+      "title": "The Importance of Being Earnest",
+      "subtitle": "",
+      "authors": ["Oscar Wilde"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/11060744-the-importance-of-being-earnest",
+      "date_started": "2019-08-28",
+      "date_completed": "2019-08-29",
+      "format": "ebook"
+    },
+    {
+      "title": "American Gods",
+      "subtitle": "",
+      "authors": ["Neil Gaiman"],
+      "rating": 2,
+      "link": "https://www.goodreads.com/book/show/12935683-american-gods",
+      "date_started": "2019-08-20",
+      "date_completed": "2019-08-28",
+      "format": "ebook"
+    },
+    {
+      "title": "East of Eden",
+      "subtitle": "",
+      "authors": ["John Steinbeck"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/11223160-east-of-eden",
+      "date_started": "2019-08-01",
+      "date_completed": "2019-08-20",
+      "format": "ebook"
+    },
+    {
+      "title": "Flowers for Algernon",
+      "subtitle": "",
+      "authors": ["Daniel Keyes"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/36576608-flowers-for-algernon",
+      "date_started": "2019-07-01",
+      "date_completed": "2019-07-19",
+      "format": "ebook"
+    },
+    {
+      "title": "India After Gandhi",
+      "subtitle": "The History of the World's Largest Democracy",
+      "authors": ["Ramachandra Guha"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/356824.India_After_Gandhi",
+      "date_started": "2019-05-01",
+      "date_completed": "2019-05-30",
+      "format": "ebook"
+    },
+    {
+      "title": "Dune",
+      "subtitle": "",
+      "authors": ["Frank Herbert"],
+      "rating": 3,
+      "link": "https://www.goodreads.com/book/show/39776179-dune",
+      "date_started": "2019-03-24",
+      "date_completed": "2019-03-31",
+      "format": "ebook"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "subtitle": "A Counterintuitive Approach to Living a Good Life",
+      "authors": ["Mark Manson"],
+      "rating": 2,
+      "link": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck",
+      "date_started": "2019-03-18",
+      "date_completed": "2019-03-24",
+      "format": "ebook"
+    },
+    {
+      "title": "All the Light We Cannot See",
+      "subtitle": "",
+      "authors": ["Anthony Doerr"],
+      "rating": 4,
+      "link": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see",
+      "date_started": "2019-03-01",
+      "date_completed": "2019-03-13",
+      "format": "ebook"
+    }
+  ]
+}

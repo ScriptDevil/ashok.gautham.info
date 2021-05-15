@@ -1,0 +1,41 @@
+{% extends 'section.html' %}
+
+{% block sectioncontent %}
+  <div class="postlist">
+    {% for page in pages %}
+    <div class="post">
+      <div class="post-title">
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+      </div>
+      {% if page.description %}
+      <div class="post-description">
+        {{ page.description }}
+      </div>
+      {% endif  %}
+      <div class="post-metadata">
+        <div class="post-metadata-date">
+          <strong>Posted on: </strong>
+          <time datetime={{page.date}}> {{page.date | date(format="%B %d, %Y") }}.</time>
+        </div>
+        <div class="post-metadata-updated">
+          {% if page.updated %}
+          <strong>Updated on:</strong>
+          <time datetime={{page.updated}}> {{page.date | date(format="%B %d, %Y") }}.</time>
+          {% endif %}
+        </div>
+        <div class="post-metadata-tags">
+          {% if page.taxonomies.tags %}
+          <strong> Tags: </strong>
+          {% for tag in page.taxonomies.tags %}
+          {% set url = get_taxonomy_url(kind="tags", name=tag) %}
+          <a class="tag" href="{{ url }}">
+            {{tag}}
+          </a>
+          {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+{% endblock sectioncontent %}

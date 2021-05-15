@@ -1,0 +1,18 @@
+# The URL the site will be built for
+base_url = "https://ashok.gautham.info"
+title = "Ashok Gautham Jadatharan"
+
+compile_sass = true
+
+highlight_code = true
+highlight_theme = "cheerfully-light"
+
+generate_feed = true
+feed_filename = "rss.xml"
+
+taxonomies = [
+    { name = "tags", feed=true },
+]
+
+[extra]
+# Put all your custom variables here

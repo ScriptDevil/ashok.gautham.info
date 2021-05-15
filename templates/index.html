@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<main class="page-main">
+  <div>
+    {{ section.content | safe}}
+  </div>
+
+  <h1>Site Layout</h1>
+  <dl>
+    {% for ss_ in section.subsections %}
+    {% set ss = get_section(path=ss_) %} 
+    <dt><a href="{{ss.permalink}}"> {{ ss.title }} </a></dt>
+    <dd> {{ ss.description }} <dd>
+    {% endfor %}
+  </dl>
+</main>
+{% endblock content %}
