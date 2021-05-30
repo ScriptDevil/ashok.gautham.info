@@ -1,6 +1,16 @@
 {
   "2021": [
     {
+      "title": "The Goal",
+      "subtitle": "A Process of Ongoing Improvement",
+      "authors": ["Eliyahu M. Goldratt", "Jeff Cox"],
+      "rating": 5,
+      "link": "https://www.goodreads.com/book/show/113934.The_Goal",
+      "date_started": "2021-05-28",
+      "date_completed": "2021-05-30",
+      "format": "ebook"
+    },
+    {
       "title": "Start with Why",
       "subtitle": "How Great Leaders Inspire Everyone To Take Action",
       "authors": ["Simon Sinek"],
